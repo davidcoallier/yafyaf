@@ -1,0 +1,8 @@
+<SiteConfigs>
+    <Url>http://site</Url>
+    <Name>Site</Name>
+    <Title>Site Website</Title>
+    <Keywords>website, php, words</Keywords>
+    <Description>Your website</Description>
+    <Author>Name</Author>
+</SiteConfigs>
